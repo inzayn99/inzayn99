@@ -4,7 +4,7 @@
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/Z.png?raw=true" width="500" height="320" />
 
 
-## I'm  IT Student | Developer | Programmer | Learner | Freelancer |
+## I'm  IT Student | Developer | Programmer | Learner | Freelancer
 - You can find my projects here [portfolio]
 - I’m currently working on my first book.
 - I’m currently learning React Native and Azure
