@@ -1,7 +1,6 @@
 
 ### Hello World, I'm Arbaaz Khan  👋
 
- <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/Z.png?raw=true" width="500" height="320" />
 
 
 ## I'm  IT Student | Developer | Programmer | Learner | Freelancer
@@ -46,9 +45,8 @@
 <br />
 <br />
 
-
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>Most Used Languages</summary>
 
 <img align="left" alt="ZAYN's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
