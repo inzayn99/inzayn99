@@ -36,7 +36,8 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][linkedin]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg
+"/>][linkedin]
 
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][linkedin]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
