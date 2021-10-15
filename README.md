@@ -1,6 +1,6 @@
 
 ### Hello World, I'm Arbaaz Khan  👋
- <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/35853466_1048334308667710_3151868476088385536_n.jpeg" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/35853466_1048334308667710_3151868476088385536_n.jpeg" width="500" height="1000" />
 
 
 
