@@ -6,7 +6,7 @@
 
 ## I'm  IT Student | Developer | Programmer | Learner | Freelancer
 - You can find my projects here [portfolio]
-- I'm currently practising [laravel and ReactJS](https://github.com/inzayn99) <br>
+- I'm currently practising [laravel and ReactJS](https://reactjs.org/) <br>
 - I’m currently learning React Native and Azure
 - I’m looking to collaborate on open source
 - Ask me about ... Anything
