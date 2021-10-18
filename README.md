@@ -7,10 +7,10 @@
 ## I'm  IT Student | Developer | Programmer | Learner | Freelancer
 - You can find my projects here [portfolio]
 - I'm currently practising [laravel and ReactJS](https://reactjs.org/) <br>
-- I’m currently learning React Native and Azure
+- I’m currently learning React Native and python
 - I’m looking to collaborate on open source
 - Ask me about ... Anything
-- Fun fact: I speak 4 languages ( English, Nepali, Hindi, Bhojpuri,urdu)
+- Fun fact: I speak 5 languages ( English, Nepali, Hindi, Bhojpuri,urdu)
 
 - If you have a project i can help with,please get in [touch.](nkedin.com/in/arbaazkhan99/)
 
