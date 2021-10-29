@@ -10,7 +10,7 @@
 - I’m currently learning React Native and python
 - I’m looking to collaborate on open source
 - Ask me about ... Anything
-- Fun fact: I speak 5 languages ( English, Nepali, Hindi, Bhojpuri)
+- Fun fact: I speak 5 languages ( English, Nepali, Hindi)
 
 - If you have a project i can help with,please get in [touch.](nkedin.com/in/arbaazkhan99/)
 
