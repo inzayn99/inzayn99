@@ -50,12 +50,12 @@
 <br />
 <br />
 
-<details>
+<!-- <details>
   <summary>Most Used Languages</summary>
 
 <img align="left" alt="ZAYN's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
-</details>
+</details> -->
 
 [website]: https://arbazkhan.com.np/
 [instagram]: https://www.instagram.com/inzayn99/
