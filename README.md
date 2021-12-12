@@ -4,11 +4,11 @@
 
 
 
-## I'm  IT Student | Developer | Programmer | Learner | Freelancer
+## I'm  IT Student | Web Developer | Learner | Freelancer
 - You can find my projects here [portfolio]
 - I'm currently practising [laravel and ReactJS](https://reactjs.org/) <br>
 - I’m currently learning React Native and python
-- I’m looking to collaborate on open source
+- I’m thing some Unique idea !
 - Ask me about ... Anything
 - Fun fact: I speak 5 languages ( English, Nepali, Hindi)
 
