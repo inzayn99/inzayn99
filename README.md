@@ -9,7 +9,7 @@
 - I'm currently practising [laravel and ReactJS](https://reactjs.org/) <br>
 - I’m currently learning React Native and python
 - I’m thing some Unique idea !
-- Ask me about ... Anything
+- Ask me about ... Anything !
 - Fun fact: I speak 5 languages ( English, Nepali, Hindi)
 
 - If you have a project i can help with,please get in [touch.](nkedin.com/in/arbaazkhan99/)
