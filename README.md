@@ -56,20 +56,7 @@
  
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26px" height="26px"/>
   
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="cplusplus" width="26px" height="26px"/>
-     
-     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="26px"/>
-      
-      <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26px" height="26px"/>
-     
-     
-     
-     
-     
-     
-     
-     
-
+   
 <br />
 <br />
 
