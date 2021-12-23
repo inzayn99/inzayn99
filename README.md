@@ -54,9 +54,8 @@
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px" height="26px"/> 
  
- <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px" height="26px"/> 
+ <p align="left"> <a href="https://reactnative.com" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26px" height="26px"/> 
  
-
 <br />
 <br />
 
