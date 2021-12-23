@@ -58,6 +58,13 @@
   <p align="left"> <a href="https://reactjs.org" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26px" height="26px"/> 
  
    <p align="left"> <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="26px"/> 
+    
+    [<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][linkedin]
+
+    [<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][linkedin]
+
+    [<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][linkedin]
+
  
 <br />
 <br />
