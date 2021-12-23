@@ -61,7 +61,6 @@
 
 [<img align="left" alt="flutter" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][linkedin]
 
-[<img align="left" alt="flutter" width="26px" src=" https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg" />][linkedin]
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px" height="26px"/> 
 
