@@ -47,6 +47,9 @@
 
 [<img align="left" alt="php" width="26px" src="https://reactnative.dev/img/header_logo.svg" />][linkedin]
 
+[<img align="left" alt="php" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/wordpress/wordpress-icon.svg" />][linkedin]
+
+
 [<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][linkedin]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][linkedin]
@@ -62,7 +65,7 @@
 [<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][linkedin]
 
 
-[<img align="left" alt="flutter" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg" />][linkedin]
+[<img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg" />][linkedin]
 
  
  
