@@ -54,12 +54,12 @@
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
  
- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+ <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26px" height="26px"/>
   
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="cplusplus" width="40" height="40"/>
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="cplusplus" width="26px" height="26px"/>
      
      
-             <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px"/> </a>
+             <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="26px"/> </a>
 
 <br />
 <br />
