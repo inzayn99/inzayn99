@@ -4,33 +4,21 @@
 
 
 
-## I'm  IT Student | Web Developer | Learner | Freelancer
+## I'm  IT Student | Web Developer |Learner |Freelancer
 - You can find my projects here [portfolio]
 - I'm currently practising [laravel and ReactJS](https://reactjs.org/) <br>
 - I’m currently learning React Native and python
-- I’m thing some Unique idea !
+- I’m thing some Creative ideas !
 - Ask me about ... Anything !
 - Fun fact: I speak 5 languages ( English, Nepali, Hindi)
 
-- If you have a project i can help with,please get in [touch.](nkedin.com/in/arbaazkhan99/)
+- If you have a project i can help with,please get in [touch.](linkedin.com/in/arbaazkhan99/)
 
 
 ### Talk with me,
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://reactnative.dev/img/header_logo.svg" />][portfolio]
-
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>][portfolio]
-
-
-
-
-
-
-
-
 
 
 <br />
