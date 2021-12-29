@@ -24,7 +24,8 @@
 <a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
   <img align="left" alt="zayn Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=inzayn99)
+![](https://visitor-badge.glitch.me/badge?page_id=hackerspider1)
+
 
 <br />
 
