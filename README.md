@@ -4,7 +4,7 @@
 
 
 
-## I'm  IT Student | Web Developer |Learner |Freelancer ![](https://visitor-badge.glitch.me/badge?page_id=hackerspider1)
+## I'm  IT Student | Web Developer |Learner |Freelancer 
 
 - You can find my projects here [portfolio]
 - I'm currently practising [laravel and ReactJS](https://reactjs.org/) <br>
@@ -24,7 +24,7 @@
 <a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
   <img align="left" alt="zayn Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
 </a>
-
+![](https://visitor-badge.glitch.me/badge?page_id=inzayn99)
 
 <br />
 
