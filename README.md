@@ -4,7 +4,7 @@
 
 
 
-Web Developer | Learner |Freelancer
+## Web Developer | Learner |Freelancer
 
 - You can find my projects here [portfolio]
 - I'm currently practising [laravel and ReactJS](https://reactjs.org/) <br>
