@@ -20,6 +20,10 @@
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
+  <img align="left" alt="zayn Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
+</a>
+
 
 <br />
 
