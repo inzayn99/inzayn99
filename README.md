@@ -4,7 +4,8 @@
 
 
 
-## I'm  IT Student | Web Developer |Learner |Freelancer
+## I'm  IT Student | Web Developer |Learner |Freelancer ![](https://visitor-badge.glitch.me/badge?page_id=hackerspider1)
+
 - You can find my projects here [portfolio]
 - I'm currently practising [laravel and ReactJS](https://reactjs.org/) <br>
 - I’m currently learning React Native and python
