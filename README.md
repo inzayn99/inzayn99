@@ -1,5 +1,5 @@
 
-### Hello World, I'm Arbaaz Khan  👋
+### Hey there, I'm Arbaaz Khan  👋
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/github-bot.gif"  width="460" height="300"/>
 
 
