@@ -2,12 +2,10 @@
 ### Hey there, I'm Arbaaz Khan  👋
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/github-bot.gif"  width="460" height="300"/>
 
-
-
 ## Web Developer | Learner |Freelancer
 
 - You can find my projects here [portfolio]
-- I'm currently practising [laravel and ReactJS](https://reactjs.org/) <br>
+- I'm currently practising [laravel and ReactJS]<br>
 - I’m currently learning React Native and python
 - I’m thing some Creative ideas !
 - Ask me about ... Anything !
