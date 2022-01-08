@@ -8,7 +8,7 @@
 - I’m currently learning React Native and python
 - I’m thing some Creative ideas !
 - Ask me about ... Anything !
-- Fun fact: I speak 5 languages ( English, Nepali, Hindi)
+- Fun fact: I speak 3 languages ( English, Nepali, Hindi)
 
 - If you have a project i can help with,please get in [touch.](linkedin.com/in/arbaazkhan99/)
 
