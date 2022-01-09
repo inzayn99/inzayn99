@@ -5,7 +5,7 @@
 
 - You can find my projects here [portfolio]
 - I'm currently practising [laravel and ReactJS]<br>
-- I’m currently learning React Native and python
+- I’m currently learning React Native and flutter
 - I’m thing some Creative ideas !
 - Ask me about ... Anything !
 - Fun fact: I speak 3 languages ( English, Nepali, Hindi)
