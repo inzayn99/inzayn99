@@ -4,12 +4,11 @@
 # Web Developer | Learner | Freelancer
 
 - You can find my projects here [portfolio]
-- I'm currently practising [laravel and ReactJS]
+- I'm currently practising [laravel and reactJS]
 - I’m currently learning React Native and flutter
 - I’m thing some Creative ideas !
 - Ask me about Anything !
 - Fun fact: I speak 3 languages ( English, Nepali, Hindi)
-
 - If you have a project i can help with,please get in [touch.](linkedin.com/in/arbaazkhan99/)
 
 
