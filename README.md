@@ -16,7 +16,7 @@
 
 
 ### Talk with me,
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />][linkedin] nobady listening me<a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />][linkedin]Nobady listening me<a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
   <img align="left" alt="zayn Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
 </a>
 
