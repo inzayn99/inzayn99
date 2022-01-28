@@ -1,7 +1,5 @@
 
-###  Hey there! Nice to see you.  👋<a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
-  <img align="left" alt="zayn Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
-</a>
+###  Hey there! Nice to see you.  👋
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/github-bot.gif"  width="460" height="300"/>
  # Web Developer | Learner | Freelancer
 
@@ -14,10 +12,17 @@
 - If you have a project i can help with,please get in [touch.](linkedin.com/in/arbaazkhan99/)
 
 
+
+
+
 ### Talk with me,
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />][linkedin]
 
 
+### No Bady listening me,
+<a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
+  <img align="left" alt="zayn Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
+</a>
 
 
 <br />
