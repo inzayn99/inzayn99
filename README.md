@@ -2,8 +2,6 @@
 ###  Hey there! Nice to see you.👋 
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/github-bot.gif"  width="460" height="300"/>
  # Web Developer | Learner | Freelancer
- ###  Hey there! Nice to see you.👋 
-
 - You can find my projects here [portfolio]
 - I'm currently practising [laravel and reactJS]
 - I’m currently learning React Native and flutter
