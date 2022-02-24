@@ -1,7 +1,7 @@
 
 ###  Hey there! 👋  I hope you well but from distance.
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/github-bot.gif"  width="460" height="300"/>
- <b>       Web Developer|Learner|Freelancer</b>
+ <b>       Web Developer| Learner| Freelancer</b>
  
 - You can find my projects here [portfolio]
 - I'm currently practising [laravel and reactJS]
