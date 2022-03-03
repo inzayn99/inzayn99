@@ -4,8 +4,8 @@
  <b>       Web Developer| Learner| Freelancer</b>
  
 - You can find my projects here [portfolio]
-- I'm currently practising [laravel and reactJS]
-- I’m currently learning React Native and flutter
+- I'm currently practising [Vue.JS and React Native]
+- I’m currently learning Ethical hacking and Bug Bounty Hunting
 - I’m thing some Creative ideas !
 - Ask me about Anything !
 - I speak 3 languages ( English, Nepali, Hindi)
@@ -71,4 +71,4 @@
 [website]: https://arbazkhan.com.np/
 [instagram]: https://www.instagram.com/inzayn99/
 [linkedin]: https://linkedin.com/in/arbaazkhan99/
-[portfolio]: https://github.com/inzayn99/
+[portfolio]: https://arbazkhan.com/
