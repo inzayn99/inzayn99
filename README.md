@@ -9,6 +9,7 @@
 - I’m thing some Creative ideas !
 - Ask me about Anything !
 - I speak 3 languages ( English, Nepali, Hindi)
+- I am currently Planning My Next Trip
 - If you have a project i can help with,please get in [touch.](linkedin.com/in/arbaazkhan99/)
 
 
