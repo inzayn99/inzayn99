@@ -5,7 +5,7 @@
  
 - You can find my projects here [portfolio]
 - I'm currently practising [Vue.Js, ReactJs]
-- I’m currently learning e-Hacking & Bug hunting
+- I’m currently learning e-haCkinG & bug hunting
 - I’m thing some Creative ideas !
 - Ask me about Anything !
 - I speak 3 languages ( English, Nepali, Hindi)
