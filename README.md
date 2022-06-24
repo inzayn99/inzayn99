@@ -4,7 +4,7 @@
  <b>Web Developer| Programmer| Freelancer</b>
  
 - You can find my projects here [portfolio]
-- I'm currently practising [Vue.Js & ReactJs]
+- I'm currently practising [Vue.Js, ReactJs]
 - I’m currently learning e-Hacking & Bug hunting
 - I’m thing some Creative ideas !
 - Ask me about Anything !
