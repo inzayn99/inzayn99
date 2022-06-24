@@ -1,7 +1,7 @@
 
 ###  Hey there! 👋
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/github-bot.gif"  width="460" height="300"/>
- <b>       Web Developer| Learner| Freelancer</b>
+ <b>Web Developer| Programmer| Freelancer</b>
  
 - You can find my projects here [portfolio]
 - I'm currently practising [Vue.JS and React Native]
@@ -10,7 +10,7 @@
 - Ask me about Anything !
 - I speak 3 languages ( English, Nepali, Hindi)
 - I am currently Planning My Next Trip
-- If you have a project i can help with,please get in [touch.](linkedin.com/in/arbaazkhan99/)
+- If you have a project i can help with,please get in [touch.](https://arbazkhan.com.np/)
 
 
 
@@ -70,4 +70,4 @@
 [website]: https://arbazkhan.com.np/
 [instagram]: https://www.instagram.com/inzayn99/
 [linkedin]: https://linkedin.com/in/arbaazkhan99/
-[portfolio]: https://arbazkhan.com/work
+[portfolio]: https://arbazkhan.com.np/
