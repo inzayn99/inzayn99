@@ -8,7 +8,7 @@
 - I’m currently learning e-haCkinG & bug hunting
 - I’m thing some Creative ideas !
 - Ask me about Anything !
-- I speak 3 languages ( English, Nepali, Hindi)
+- I speak 3 languages ( Eng, Nepeli, Hindi.)
 - I am currently planning My Next Trip
 - If you have a project i can help with,please get in [touch.](https://arbazkhan.com.np/)
 
@@ -50,15 +50,6 @@
 
 
 [<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][linkedin]
-
-
-
- 
- 
- 
- 
-<br />
-<br />
 
 <!-- <details>
   <summary>Most Used Languages</summary>
