@@ -1,11 +1,11 @@
 
 ###  Hey there! 👋
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/github-bot.gif"  width="460" height="300"/>
- <b>Web Developer| Programmer| Freelancer</b>
+ <b>Web Developer| Programmer| Freelancer</b> <br>
  
 - You can find my projects here [portfolio]
 - I'm currently practising [Vue.JS and React Native]
-- I’m currently learning E-Hacking & Bug Bounty Hunting
+- I’m currently learning e-Hacking & Bug hunting
 - I’m thing some Creative ideas !
 - Ask me about Anything !
 - I speak 3 languages ( English, Nepali, Hindi)
