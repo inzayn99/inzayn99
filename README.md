@@ -8,7 +8,7 @@
 - I’m learning e-haCkinG & bug hunting
 - I’m thing some Creative ideas !
 - Ask me about Anything !
-- I speak 4 languages ( Eng, Nepeli, Hindi, Urdu)
+- I speak 3 languages(eng,nepeli,hindi)
 - I am currently planning My Next Trip
 - If you have a project i can help with,please get in [touch.](https://arbazkhan.com.np/)
 
@@ -20,8 +20,6 @@
   <img align="left" alt="zayn Spotify" width="22px" target="blank" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
 </a>
 
-
-
 <br />
 
 ### Skill Stacks Languages:
@@ -31,13 +29,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 
 [<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][linkedin]
-
 [<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][linkedin]
-
 [<img align="left" alt="php" width="26px" src="https://reactnative.dev/img/header_logo.svg" />][linkedin]
-
-
-
 [<img align="left" alt="vue" width="26px" src="https://vuejs.org/logo.svg" />][linkedin]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][linkedin]
