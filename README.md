@@ -16,8 +16,8 @@
 
 
 ### Talk with me,
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />][linkedin]Nobady is listening<a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
-  <img align="left" alt="zayn Spotify" width="22px" target="blank" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" target="_blank"  />][linkedin]Nobady is listening<a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
+  <img align="left" alt="zayn Spotify" width="22px" target="_blank" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
 </a>
 
 <br />
@@ -45,9 +45,7 @@
 
 <!-- <details>
   <summary>Most Used Languages</summary>
-
 <img align="left" alt="ZAYN's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva"/>
-
 </details> -->
 
 [website]: https://arbazkhan.com.np/
