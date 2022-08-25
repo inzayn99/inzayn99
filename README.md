@@ -13,25 +13,22 @@
 - If you have a project i can help with,please get in [touch.](https://arbazkhan.com.np/)
 
 
-
-
 ### Talk with me,
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" target="_blank"  />][linkedin]Nobady is listening<a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
   <img align="left" alt="zayn Spotify" width="22px" target="_blank" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
 </a>
-
 <br />
 
 ### Skill Stacks Languages:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
+[<img align="left" alt="HTML5" width="26px"  target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
+[<img align="left" alt="CSS3" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
+[<img align="left" alt="JavaScript" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 
-[<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][linkedin]
+[<img align="left" alt="php" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][linkedin]
 [<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][linkedin]
-[<img align="left" alt="php" width="26px" src="https://reactnative.dev/img/header_logo.svg" />][linkedin]
-[<img align="left" alt="vue" width="26px" src="https://vuejs.org/logo.svg" />][linkedin]
+[<img align="left" target="_blank"  alt="php" width="26px" src="https://reactnative.dev/img/header_logo.svg" />][linkedin]
+[<img align="left" target="_blank"  alt="vue" width="26px" src="https://vuejs.org/logo.svg" />][linkedin]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][linkedin]
 <!-- [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin] -->
