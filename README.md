@@ -1,17 +1,16 @@
 
 ###  Hey there! 👋
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/github-bot.gif"  width="460" height="300"/>
- <b>Web Developer| Programmer| Freelancer</b>
+ <b>Web Developer | Programmer</b>
  
 - You can find my projects here [portfolio]
 - I'm currently practising [Vue.Js, ReactJs]
 - I’m learning e-haCkinG & bug hunting
 - I’m thing some Creative ideas !
 - Ask me about Anything !
-- I speak 3 languages ( Eng, Nepeli, Hindi.)
+- I speak 4 languages ( Eng, Nepeli, Hindi, Urdu)
 - I am currently planning My Next Trip
 - If you have a project i can help with,please get in [touch.](https://arbazkhan.com.np/)
-
 
 
 
