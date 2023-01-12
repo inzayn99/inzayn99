@@ -9,7 +9,7 @@
 - I’m thing some Creative ideas !
 - Ask me about Anything !
 - I speak 3 languages(Eng,Nepali,Hindi)
-- I am currently planning My Next Trip
+- I am currently planning My Next Trip...
 - If you have a project i can help with,please get in [touch.](https://arbazkhan.com.np/)
 
 
