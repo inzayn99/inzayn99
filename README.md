@@ -1,7 +1,7 @@
 
 ###  Hey there! 👋
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/github-bot.gif"  width="460" height="300"/>
- <strong>I'm Web Developer | Programmer</strong>
+ <strong>I'M WEB DEVELOPER | PROGRAMMER</strong>
  
 - You can find my projects here [portfolio]
 - I'm currently practising [Vue.Js]
