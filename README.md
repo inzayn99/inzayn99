@@ -1,5 +1,5 @@
 
-###  Hey there! 👋
+###  Hey there! 👋 ![](https://visitor-badge.glitch.me/badge?page_id=hackerspider1)
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/github-bot.gif"  width="460" height="300"/>
  <strong>I'M WEB DEVELOPER | PROGRAMMER</strong>
  
