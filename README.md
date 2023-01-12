@@ -10,7 +10,7 @@
 - Ask me about Anything !
 - I speak 3 languages(Eng,Nepali,Hindi)
 - I am currently planning My Next Trip...
-- If you have a project i can help with,please get in [touch.](https://arbazkhan.com.np/)
+- If you have a project i can help you, get in [touch.](https://arbazkhan.com.np/)
 
 
 ### Talk with me,
