@@ -14,7 +14,7 @@
 
 
 ### Talk with me,
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" target="_blank"  />][linkedin]Nobady is listening<a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" target="_blank"  />][linkedin]Nobady izZ listening<a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr">
   <img align="left" alt="zayn Spotify" width="22px" target="_blank" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
 </a>
 <br />
