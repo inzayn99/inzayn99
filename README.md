@@ -43,7 +43,12 @@
 
 
 
-[<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][linkedin]
+[<img align="left" alt="flutter" width="26px" 
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][linkedin]
+ 
+ [<img align="left" alt="docker" width="26px" 
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker.svg" />][linkedin]
+ 
 
 <!-- <details>
   <summary>Most Used Languages</summary>
