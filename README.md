@@ -58,4 +58,4 @@
 [website]: https://arbazkhan.com.np/
 [instagram]: https://www.instagram.com/inzayn99/
 [linkedin]: https://linkedin.com/in/arbaazkhan99/
-[portfolio]: https://arbazkhan.com.np/
+[portfolio]: https://arbaazkhan.com.np/
