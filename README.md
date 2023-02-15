@@ -5,10 +5,10 @@
  
 - You can find my projects here [portfolio]
 - I'm currently practising [Vue.Js]
-- I’m learning e-haCkinG & bug hunting
-- I’m thing some Creative ideas !
-- Ask me about Anything !
-- I speak 3 languages(Eng,Nepali,Hindi)
+- I’m learning e-hackinG & bug hunting
+- I’m thing some creative ideas !
+- Ask me about anything !
+- I speak 3 languages(eng,nepali,hindi)
 - I am currently planning My Next Trip...
 - If you have a project i can help you, get in [touch.](https://arbazkhan.com.np/)
 
