@@ -28,7 +28,6 @@
 
 [<img align="left" alt="php" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][portfolio]
 
-[<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][portfolio]
 
 <!-- [<img align="left" target="_blank"  alt="php" width="26px" src="https://reactnative.dev/img/header_logo.svg" />][linkedin] -->
 
