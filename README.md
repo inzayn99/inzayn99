@@ -4,11 +4,10 @@
  <strong>🕸️ I BUILD WEBSITE AM A WEBER</strong>
  
 - You can find my projects here [portfolio]
-- I'm currently practising [Vue.Js]
-- I’m learning e-hackiNg & bug-hunting
+- I’m learning e-hackiNg & bug-huntiNg
 - I’m thing some creative ideas !
 - I speak 3 languages(eng,nepali,hindi)
-- I am currently planning my Next Trip...
+- I am currently planning my next trip...
 - If you have a project i can happy to help you, get in [touch.](https://arbazkhan.com.np/)
 
 
