@@ -1,7 +1,7 @@
 
 ###  Hey there! 👋 ![](https://visitor-badge.glitch.me/badge?page_id=inzayn99)
  <img align="right" alt="GIF" src="https://github.com/inzayn99/inzayn99/blob/main/github-bot.gif"  width="460" height="300"/>
- <strong>I'M WEB DEVELOPER | PROGRAMMER</strong>
+ <strong>🕸️ I BUILD WEBSITE AM A WEBER</strong>
  
 - You can find my projects here [portfolio]
 - I'm currently practising [Vue.Js]
