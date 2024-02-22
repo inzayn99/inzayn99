@@ -5,10 +5,10 @@
  
 - You can find my projects here [portfolio]
 - I’m learning e-hackiNg & bug-huntiNg
-- I’m thing some creative ideas !
-- I speak 3 languages(eng,nepali,hindi)
+- I’m thinking of some creative ideas!
+- I speak 3 languages(English, Nepali, Hindi)
 - I am currently planning my next trip...
-- If you have a project i can happy to help you, get in [touch.](https://arbazkhan.com.np/)
+- If you have a project I can happy to help you, get in [touch.](https://arbazkhan.com.np/)
 
 
 ### Talk with me,
@@ -19,9 +19,6 @@
 
 ### Skill Stacks Languages:
 
-[<img align="left" alt="HTML5" width="26px"  target="blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][portfolio]
-
-[<img align="left" alt="CSS3" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][portfolio]
 
 [<img align="left" alt="JavaScript" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
 
@@ -40,11 +37,9 @@
 
 
 
-[<img align="left" alt="flutter" width="26px" 
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][linkedin]
+[<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][linkedin]
  
- [<img align="left" alt="docker" width="26px" 
- src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][linkedin]
+ [<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][linkedin]
  
 
 <!-- <details>
@@ -53,6 +48,6 @@
 </details> -->
 
 [website]: https://arbazkhan.com.np/
-[instagram]: https://www.instagram.com/inzayn99/
+[instagram]: https://www.instagram.com/inzayn9/
 [linkedin]: https://linkedin.com/in/arbaazkhan99/
 [portfolio]: https://arbaazkhan.com.np/
