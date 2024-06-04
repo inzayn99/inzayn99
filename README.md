@@ -20,19 +20,19 @@
 ### Skill Stacks Languages:
 
 
-[<img align="left" alt="JavaScript" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
+[<img align="left" alt="JavaScript" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
 [<img align="left" alt="php" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][portfolio]
 
 
 <!-- [<img align="left" target="_blank"  alt="php" width="26px" src="https://reactnative.dev/img/header_logo.svg" />][linkedin] -->
 
-<img align="left" target="_blank"  alt="vue" width="26px" src="https://vuejs.org/logo.svg" />]
+[<img align="left" target="_blank"  alt="vue" width="26px" src="https://vuejs.org/logo.svg" />][vuejs]
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+[<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][nodejs]
 
  
 
@@ -45,3 +45,7 @@
 [instagram]: https://www.instagram.com/inzayn9/
 [linkedin]: https://linkedin.com/in/arbaazkhan99/
 [portfolio]: https://arbaazkhan.com.np/
+
+[nodejs]: https://nodejs.org/en
+[javascript]: https://www.javascript.com/
+[vuejs]: https://vuejs.org/
