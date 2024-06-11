@@ -29,7 +29,6 @@
 [<img align="left" height="20" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][nodejs]
 [<img align="left" height="20" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">][typescript]
 [<img align="left" height="20" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">][express]
-[<img align="left" height="20" target="_blank" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg">][express]
 
  
 
@@ -52,4 +51,3 @@
 [MongoDB]: https://www.mongodb.com/
 [typescript]: https://www.typescriptlang.org/
 [express]: https://expressjs.com/
-[docker]: https://www.docker.com/
