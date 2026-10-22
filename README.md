@@ -2,34 +2,23 @@
 <img align="right" alt="GIF" src="github-bot.gif" width="460" height="300"/>
 <strong>🕸️ I BUILD WEBSITES & BACKEND SYSTEMS — A WEBER AT HEART</strong>
 
-- 💻 Backend developer working with **Laravel, NestJS, Node.js, Vue/Next.js & Python**
-- 🏢 Currently building at **Third Rock Adventures**, Kathmandu
-- 🚀 You can find my projects here: [portfolio]
-- 🛡️ I’m learning e-hackiNg & bug-huntiNg
-- 💡 I’m thinking of some creative ideas!
-- 🌍 I speak 3 languages (English, Nepali, Hindi)
-- ✈️ I am currently planning my next trip...
-- 🤝 If you have a project, I’d be happy to help. Get in [touch.][website]
+- Backend developer working with **Laravel, NestJS, Node.js, Vue/Next.js & Python**
+- Currently building at **Third Rock Adventures**, Kathmandu
+- You can find my projects here: [portfolio]
+- I’m learning e-hackiNg & bug-huntiNg
+- I’m thinking of some creative ideas!
+- I speak 3 languages (English, Nepali, Hindi)
+- I am currently planning my next trip...
+- If you have a project, I’d be happy to help. Get in [touch.][website]
 
 <br clear="right" />
-
-### 🚀 Things I've built
-
-- **Hotel Revenue System**: bookings, revenue tracking & reports (Laravel)
-- **PTE Practice CRM**: student management & PTE practice platform (Laravel)
-- **Quickfix**: e-commerce with service-provider booking (Laravel, JS)
-- **Nepal Trek Routes**: trekking routes & itineraries (TypeScript)
-- **NestJS Dashboard**: admin dashboard with a modular NestJS backend
-- **Yatrasansar**: booking site for a luxury trekking company (Vue, Laravel)
-
-> 🔒 Most of this is client work and private. Ask me for a walkthrough.
 
 ### Talk with me,
 [<img align="left" alt="Arbaaz Khan | LinkedIn" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />][linkedin]
 <a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr" target="_blank">
   <img align="left" alt="zayn Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
 </a>
-&nbsp;🎧 Nobody izZ listening
+&nbsp;Nobody izZ listening
 <br clear="left" />
 
 ### Skill Stacks Languages:
@@ -51,7 +40,7 @@
 <br />
 
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
   <br />
   <img alt="ZAYN's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=inzayn99&show_icons=true&count_private=true&theme=transparent" />
   <img alt="ZAYN's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzayn99&layout=compact&theme=transparent" />
