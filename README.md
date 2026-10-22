@@ -1,13 +1,17 @@
 ###  Hey there! 👋 ![Profile views](https://komarev.com/ghpvc/?username=inzayn99&color=blueviolet&style=flat)
 <img align="right" alt="GIF" src="github-bot.gif" width="460" height="300"/>
-<strong>🕸️ I BUILD THING FOR THE WEB - I'M WEBER</strong>
+<strong>🕸️ I BUILD WEBSITES & BACKEND SYSTEMS — A WEBER AT HEART</strong>
 
 - Backend developer working with **Laravel, NestJS, Node.js, Vue/Next.js & Python**
+- Currently building at **Third Rock Adventures**, Kathmandu
 - You can find my projects here: [portfolio]
+- I’m learning e-hackiNg & bug-huntiNg
 - I’m thinking of some creative ideas!
 - I speak 3 languages (English, Nepali, Hindi)
 - I am currently planning my next trip...
 - If you have a project, I’d be happy to help. Get in [touch.][website]
+
+<br clear="right" />
 
 ### Talk with me,
 [<img align="left" alt="Arbaaz Khan | LinkedIn" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />][linkedin]
@@ -26,9 +30,11 @@
 [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][laravel]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="NestJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" />][nestjs]
+[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
 [<img align="left" alt="Vue.js" width="26px" src="https://vuejs.org/logo.svg" />][vuejs]
 [<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />][nextjs]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />][mysql]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />][mongodb]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 <br clear="left" />
 <br />
