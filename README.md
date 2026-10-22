@@ -26,11 +26,9 @@
 [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][laravel]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="NestJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" />][nestjs]
-[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
 [<img align="left" alt="Vue.js" width="26px" src="https://vuejs.org/logo.svg" />][vuejs]
 [<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />][nextjs]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />][mongodb]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 <br clear="left" />
 <br />
