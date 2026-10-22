@@ -11,8 +11,6 @@
 - I am currently planning my next trip...
 - If you have a project, I’d be happy to help. Get in [touch.][website]
 
-<br clear="right" />
-
 ### Talk with me,
 [<img align="left" alt="Arbaaz Khan | LinkedIn" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />][linkedin]
 <a href="https://open.spotify.com/playlist/6W3leCRYykARcfMh2kmYCr" target="_blank">
