@@ -3,7 +3,6 @@
 <strong>🕸️ I BUILD WEBSITES & BACKEND SYSTEMS — A WEBER AT HEART</strong>
 
 - Backend developer working with **Laravel, NestJS, Node.js, Vue/Next.js & Python**
-- Currently building at **Third Rock Adventures**, Kathmandu
 - You can find my projects here: [portfolio]
 - I’m learning e-hackiNg & bug-huntiNg
 - I’m thinking of some creative ideas!
