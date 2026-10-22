@@ -1,6 +1,6 @@
 ###  Hey there! 👋 ![Profile views](https://komarev.com/ghpvc/?username=inzayn99&color=blueviolet&style=flat)
 <img align="right" alt="GIF" src="github-bot.gif" width="460" height="300"/>
-<strong>🕸️ I BUILD WEBSITES & BACKEND SYSTEMS — A WEBER AT HEART</strong>
+<strong>🕸️ I BUILD THING FOR THE WEB — I'M WEBER</strong>
 
 - Backend developer working with **Laravel, NestJS, Node.js, Vue/Next.js & Python**
 - Currently building at **Third Rock Adventures**, Kathmandu
