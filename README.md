@@ -1,6 +1,6 @@
 ###  Hey there! 👋 ![Profile views](https://komarev.com/ghpvc/?username=inzayn99&color=blueviolet&style=flat)
 <img align="right" alt="GIF" src="github-bot.gif" width="460" height="300"/>
-<strong>🕸️ I BUILD ThING FOR THE WEB I'M WEBER </strong>
+<strong>🕸️ I BUILD THING FOR THE WEB I'M WEBER </strong>
 
 - Backend developer working with **Laravel, NestJS**
 - You can find my projects here: [portfolio]
